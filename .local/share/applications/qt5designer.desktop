@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=5.6.1
+Type=Application
+Encoding=UTF-8
+Exec=/usr/lib/x86_64-linux-gnu/qt5/bin/designer
+Icon=qtdesigner
+StartupNotify=false
+Categories=Development;IDE;
+OnlyShowIn=XFCE;
+Name=Qt5 Designer
+Comment=Дизайнер графического интерфейса
